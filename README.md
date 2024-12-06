@@ -1,4 +1,4 @@
 # New-REPO
 just for learning
 <br>
-Author - Manish hans
+Author - Manish kumar hans
